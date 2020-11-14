@@ -6,7 +6,7 @@ import {
 	SET_LOADING,
 } from './types'
 
-const BASE_URL = 'http://my-json-server.typicode.com/judikaelle/it-logger-db'
+const BASE_URL = 'https://my-json-server.typicode.com/judikaelle/it-logger-db'
 
 // Get techs from server
 export const getTechs = () => async (dispatch) => {
