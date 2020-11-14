@@ -1,11 +1,18 @@
 {
   "logs": [
     {
-      "id": 1,
-      "message": "checked computer room 009",
+      "message": "Check computers room 009",
       "attention": true,
       "tech": "Sam Smith",
-      "date": "2020-06-06T12:32:16.356Z"
+      "date": "2020-11-14T09:13:36.799Z",
+      "id": 1
+    },
+    {
+      "message": "Install soft break room",
+      "attention": false,
+      "tech": "Greg Harris",
+      "date": "2020-11-14T09:14:32.681Z",
+      "id": 2
     }
   ],
   "techs": [
