@@ -1,2 +1,2 @@
 # It Logger with Materialize
-[Demo](https://it-logger-materialize.vercel.app/)
+[Live Demo](https://it-logger-materialize.vercel.app/)
