@@ -7,4 +7,4 @@
   <li>Redux</li>
   <li>json-server</li>
  </ul>
- [Live Demo](https://it-logger-materialize.vercel.app/)
+ <a href="https://it-logger-materialize.vercel.app/" target="_blank">Live Demo</a>
