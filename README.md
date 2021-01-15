@@ -1,4 +1,7 @@
 # It Logger
+
+A ticket management logger
+
 ### What did i use?
 <ul>
   <li>CRA</li>
